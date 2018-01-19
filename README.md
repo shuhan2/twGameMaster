@@ -18,5 +18,6 @@
 - 数字相同，但是每位都不同的情况，是否返回0A4B
 - ...
 
-### GameTest五个测试案例，win，0A0B,0A4B,XA0B,0AXB
-### 后面的测试代码和win的测试代码类似，除了输入输出不同之外，wantedNumberOfInvocations由1改为6
+### 完成情况
+- GameTest五个测试案例，win，0A0B,0A4B,XA0B,0AXB
+- 后面的测试代码和win的测试代码类似，除了输入输出不同之外，wantedNumberOfInvocations由1改为6
